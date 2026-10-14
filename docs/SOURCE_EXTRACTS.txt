@@ -1,0 +1,470 @@
+
+SOURCE: HER TECHARMOR FINAL.pdf
+PAGE 1
+SMART INDIA HACKATHON
+2024
+• Problem Statement ID –SIH1605
+• Problem Statement Title-Women Safety
+Analytics-Protecting Women from safety
+threats
+• Theme-Miscellaneous
+• PS Category- Software
+• Team ID-
+• Team Name - Her Techarmor
+
+PAGE 2
+•
+We are developing a surveillance camera system specifically designed to prioritize women's safety by
+integrating advanced technologies.
+•
+This system will feature the ability to count the number of men and women in its field of view using
+computer vision and deep learning algorithms.
+•
+In cases where distress is detected, a scream alert mechanism will be activated. This will be cross-checked
+with the individual's gestures to confirm the threat, and if validated, the system will automatically connect the
+person to the nearest police station or security center(e.g., a woman surrounded by multiple men, or a
+person gesturing for help).
+•
+This escalation will include sending live CCTV footage, location data, and event metadata to ensure a quick
+response.
+•
+Additionally, there will be a button installed in the streetlight lamp posts, allowing individuals to manually
+connect to the nearest station if they feel unsafe, similar to the safety systems that already exists.
+•
+The system will also securely store recordings permanently as evidence for any potential investigation.
+•
+This project aims to create a comprehensive, real-time surveillance solution to enhance the safety and
+security of women in public and private spaces.
+Her
+techarmor
+@SIH Idea submission-
+Template
+2
+Proposed Solution
+FEM GUARD
+
+PAGE 3
+TECHNICAL APPROACH
+•
+Python is used for a Artificial Intelligence and deep
+learning algorithm for a gender classification and
+gesture detection
+•
+Our model can be trained using a Opencv,
+Mediapipe,Torchvision and Tensorflow.
+•
+Data is collected and stored permanently when the
+threaten activity is detected. Cloud platform like
+Google Clouds, AWS  are used.
+•
+Even it can be used with the existing law
+enforcement storage platforms.
+@SIH Idea submission-
+Template
+3
+Her
+techarmor
+
+PAGE 4
+Her
+techarmor
+FLOWCHART
+@SIH Idea submission-
+Template
+
+PAGE 5
+FEABILITY AND
+VIABILITY
+@SIH Idea submission-
+Template
+5
+Her
+techarmor
+•
+ Constant surveillance may raise privacy concerns; address this by using data anonymization, encryption, and
+being transparent about data usage.
+•
+ AI might incorrectly detect threats, leading to false alarms or missed threats. Continuously train models and
+employ multi-factor detection to mitigate this.
+•
+ System failures could hinder emergency detection. Build redundancy with backups and ensure regular
+maintenance.
+•
+Overreliance on the system could reduce human vigilance. Promote community engagement alongside the
+technology.
+•
+AI surveillance may introduce biases. Train models on diverse datasets and conduct regular audits to address
+this.
+•
+Initial setup and maintenance could be expensive. Start with pilot programs and seek partnerships for funding.
+•
+Regulatory issues may arise with the use of surveillance. Collaborate with legal experts to ensure compliance.
+•
+Unauthorized access could lead to misuse of the system. Implement strong cybersecurity measures and limit
+access to data.
+
+PAGE 6
+IMPACT AND BENEFITS
+@SIH Idea submission-
+Template
+6
+Her
+techarmor
+RESEARCH AND REFERENCES
+https://www.researchgate.net/publication/349551329_Gender_Classification_using_OpenCV_and_Feature_Extraction
+https://scholarworks.sjsu.edu/do/search/?q=author%3A%22ChengEn%20Sung%22&start=0&context=1551039
+https://ojs.piscomed.com/index.php/L-E/issue/view/220
+https://peerj.com/articles/10990/
+https://journal.esrgroups.org/jes/article/view/1430
+•
+Enhanced Public Safety: Proactively monitors and responds to potential threats, preventing harassment or violence.
+•
+Increased Trust: Boosts public confidence in infrastructure and law enforcement by implementing advanced safety
+features.
+•
+Faster Emergency Response: Real-time CCTV and automated alerts reduce response times, potentially saving lives.
+•
+Crime Deterrence: Sophisticated surveillance acts as a deterrent to potential offenders.
+•
+Data-Driven Policy Making: Collects valuable data for informed decision-making in urban planning and resource
+allocation.
+•
+Scalability and Integration: Easily scalable and integrates with existing infrastructure, offering a versatile solution for
+various environments.
+•
+Community Empowerment: Enhances women's safety, empowering communities and promoting gender equality.
+
+
+SOURCE: HER TECHARMOR2-1.pptx
+SLIDE 1
+SMART INDIA HACKATHON 2024
+
+Problem Statement ID –SIH1605
+
+Problem Statement Title-Women Safety Analytics-Protecting Women from safety threats
+
+Theme-Miscellaneous
+
+PS Category- Software
+
+Team ID- 
+
+Team Name - Her Techarmor
+SLIDE 2
+Proposed Solution
+
+We are developing a surveillance camera system specifically designed to prioritize women's safety by integrating advanced technologies. 
+This system will feature the ability to count the number of men and women in its field of view using computer vision and deep learning algorithms. 
+Emotion detection will be implemented to assess the emotional state of individuals, identifying signs of distress such as fear or anger using facial recognition models. The system will also measure the distance between men and women in the area to detect any potentially unsafe proximity.
+In cases of detected distress, a scream alert mechanism will be activated, and an AI voice will promptly ask the woman if she needs assistance. If the woman doesn’t respond, the system will automatically escalate the situation by connecting her to the nearest police station or security center. 
+This escalation will include sending live CCTV footage, location data, and event metadata to ensure a quick response. 
+Additionally, there will be a button installed in the streetlight lamp posts, allowing individuals to manually connect to the nearest station if they feel unsafe, similar to the safety systems. 
+The system will also securely store recordings as evidence for any potential investigation. 
+This project aims to create a comprehensive, real-time surveillance solution to enhance the safety and security of women in public and private spaces.
+
+Her   techarmor
+@SIH Idea submission- Template
+‹#›
+SLIDE 3
+TECHNICAL APPROACH
+Python is used for a machine learning algorithm 
+Our model can be trained using a Tensorflow and Opencv
+Software is intergrated with a camera which has good night vision modes.
+IOT Technology is used to collect the data and give alerts to control rooms thorugh devices like orange pi.
+Cloud platform like Google Clouds, AWS are used.
+ 
+
+
+
+@SIH Idea submission- Template
+‹#›
+Her   techarmor
+SLIDE 4
+
+@SIH Idea submission- Template
+Her   techarmor
+FLOWCHART 
+SLIDE 5
+FEABILITY AND VIABILITY
+
+@SIH Idea submission- Template
+‹#›
+Her   techarmor
+ Constant surveillance may raise privacy issues. Use data anonymization, encryption, and transparency about data usage.
+ AI may incorrectly detect emotions, leading to false alarms or missed threats. Continuously train models and use multi-factor detection.
+ System failures could hinder emergency detection. Build redundancy with backups and regular maintenance.
+ Overreliance could reduce human vigilance. Promote community engagement alongside technology.
+ AI surveillance may introduce biases. Train on diverse datasets and conduct regular audits.
+Initial setup and maintenance could be expensive. Start with pilot programs and seek partnerships for funding.
+Regulatory issues may arise with surveillance use. Work with legal experts to ensure compliance.
+Unauthorized access to the system could lead to misuse. Implement strong cybersecurity and limit data access.
+
+SLIDE 6
+IMPACT AND BENEFITS
+
+
+@SIH Idea submission- Template
+‹#›
+Her   techarmor
+RESEARCH AND REFERENCES
+https://www.sciencedirect.com/science/article/pii/S2405844023043487#abs0010
+https://journal.esrgroups.org/jes/article/view/1430
+https://www.sciencedirect.com/science/article/pii/S1568494621005317
+
+Enhanced Public Safety: Proactively monitors and responds to potential threats, preventing harassment or violence.
+Increased Trust: Boosts public confidence in infrastructure and law enforcement by implementing advanced safety features.
+Faster Emergency Response: Real-time CCTV and automated alerts reduce response times, potentially saving lives.
+Crime Deterrence: Sophisticated surveillance acts as a deterrent to potential offenders.
+Data-Driven Policy Making: Collects valuable data for informed decision-making in urban planning and resource allocation.
+Scalability and Integration: Easily scalable and integrates with existing infrastructure, offering a versatile solution for various environments.
+Community Empowerment: Enhances women's safety, empowering communities and promoting gender equality. 
+
+SOURCE: SIH HER TECHARMOR2pptx.pptx
+SLIDE 1
+SMART INDIA HACKATHON 2024
+
+Problem Statement ID –SIH1605
+
+Problem Statement Title-Women Safety Analytics-Protecting Women from safety threats
+
+Theme-Miscellaneous
+
+PS Category- Software
+
+Team ID- 
+
+Team Name - Her Techarmor
+SLIDE 2
+Proposed Solution
+
+We are developing a surveillance camera system specifically designed to prioritize women's safety by integrating advanced technologies. 
+This system will feature the ability to count the number of men and women in its field of view using computer vision and deep learning algorithms. 
+Emotion detection will be implemented to assess the emotional state of individuals, identifying signs of distress such as fear or anger using facial recognition models. The system will also measure the distance between men and women in the area to detect any potentially unsafe proximity.
+In cases of detected distress, a scream alert mechanism will be activated, and an AI voice will promptly ask the woman if she needs assistance. If the woman doesn’t respond, the system will automatically escalate the situation by connecting her to the nearest police station or security center. 
+This escalation will include sending live CCTV footage, location data, and event metadata to ensure a quick response. 
+Additionally, there will be a button installed in the streetlight lamp posts, allowing individuals to manually connect to the nearest station if they feel unsafe, similar to the safety systems. 
+The system will also securely store recordings as evidence for any potential investigation. 
+This project aims to create a comprehensive, real-time surveillance solution to enhance the safety and security of women in public and private spaces.
+
+Her   techarmor
+@SIH Idea submission- Template
+2
+SLIDE 3
+TECHNICAL APPROACH
+Python is used for a machine learning algorithm 
+Our model can be trained using a Tensorflow and Opencv
+Software is intergrated with a camera which has good night vision modes.
+IOT Technology is used to collect the data and give alerts to control rooms using a supporting device called google coral.
+Cloud platform like Google Clouds, AWS are used.
+ 
+
+
+
+@SIH Idea submission- Template
+3
+Her   techarmor
+SLIDE 4
+
+@SIH Idea submission- Template
+Her   techarmor
+FLOWCHART OF WORKING
+SLIDE 5
+FEABILITY AND VIABILITY
+
+@SIH Idea submission- Template
+‹#›
+Her   techarmor
+ Constant surveillance may raise privacy issues. Use data anonymization, encryption, and transparency about data usage.
+ AI may incorrectly detect emotions, leading to false alarms or missed threats. Continuously train models and use multi-factor detection.
+ System failures could hinder emergency detection. Build redundancy with backups and regular maintenance.
+ Overreliance could reduce human vigilance. Promote community engagement alongside technology.
+ AI surveillance may introduce biases. Train on diverse datasets and conduct regular audits.
+Initial setup and maintenance could be expensive. Start with pilot programs and seek partnerships for funding.
+Regulatory issues may arise with surveillance use. Work with legal experts to ensure compliance.
+Unauthorized access to the system could lead to misuse. Implement strong cybersecurity and limit data access.
+
+SLIDE 6
+IMPACT AND BENEFITS
+
+
+@SIH Idea submission- Template
+6
+Her   techarmor
+RESEARCH AND REFERENCES
+https://www.sciencedirect.com/science/article/pii/S2405844023043487#abs0010
+https://journal.esrgroups.org/jes/article/view/1430
+https://www.sciencedirect.com/science/article/pii/S1568494621005317
+
+Constant surveillance may raise privacy issues. Use data anonymization, encryption, and transparency about data usage.
+ AI may incorrectly detect emotions, leading to false alarms or missed threats. Continuously train models and use multi-factor detection.
+ System failures could hinder emergency detection. Build redundancy with backups and regular maintenance.
+ Overreliance could reduce human vigilance. Promote community engagement alongside technology.
+ AI surveillance may introduce biases. Train on diverse datasets and conduct regular audits.
+Initial setup and maintenance could be expensive. Start with pilot programs and seek partnerships for funding.
+Regulatory issues may arise with surveillance use. Work with legal experts to ensure compliance.
+Unauthorized access to the system could lead to misuse. Implement strong cybersecurity and limit data access.
+
+SOURCE: SIH WOMEN SAFETY2.pptx
+SLIDE 1
+SMART INDIA HACKATHON 2024
+
+Problem Statement ID –SIH1605
+
+Problem Statement Title-Women Safety Analytics-Protecting Women from safety threats
+
+Theme-Miscellaneous
+
+PS Category- Software
+
+Team ID- 
+
+Team Name - Her Techarmor
+SLIDE 2
+We are developing a surveillance camera system specifically designed to prioritize women's safety by integrating advanced technologies. 
+This system will feature the ability to count the number of men and women in its field of view using computer vision and deep learning algorithms. 
+In cases where distress is detected, a scream alert mechanism will be activated. This will be cross-checked with the individual's gestures to confirm the threat, and if validated, the system will automatically connect the person to the nearest police station or security center(e.g., a woman surrounded by multiple men, or a person gesturing for help).
+This escalation will include sending live CCTV footage, location data, and event metadata to ensure a quick response. 
+Additionally, there will be a button installed in the streetlight lamp posts, allowing individuals to manually connect to the nearest station if they feel unsafe, similar to the safety systems that already exists.
+The system will also securely store recordings permanently as evidence for any potential investigation. 
+This project aims to create a comprehensive, real-time surveillance solution to enhance the safety and security of women in public and private spaces.
+
+Her   techarmor
+@SIH Idea submission- Template
+2
+Proposed Solution
+
+FEM GUARD
+SLIDE 3
+TECHNICAL APPROACH
+Python is used for a Artificial Intelligence and deep learning algorithm for a gender classification and gesture detection
+Our model can be trained using a Opencv,Mediapipe,Torchvision and Tensorflow.
+Data is collected and stored permanently when the threaten activity is detected. Cloud platform like Google Clouds, AWS  are used.
+Even it can be used with the existing law enforcement storage platforms.
+
+
+
+@SIH Idea submission- Template
+3
+Her   techarmor
+SLIDE 4
+
+@SIH Idea submission- Template
+Her   techarmor
+FLOWCHART 
+@SIH Idea submission- Template
+SLIDE 5
+FEABILITY AND VIABILITY
+
+@SIH Idea submission- Template
+5
+Her   techarmor
+
+ Constant surveillance may raise privacy concerns; address this by using data anonymization, encryption, and being transparent about data usage.
+ AI might incorrectly detect threats, leading to false alarms or missed threats. Continuously train models and employ multi-factor detection to mitigate this.
+ System failures could hinder emergency detection. Build redundancy with backups and ensure regular maintenance.
+Overreliance on the system could reduce human vigilance. Promote community engagement alongside the technology.
+AI surveillance may introduce biases. Train models on diverse datasets and conduct regular audits to address this.
+Initial setup and maintenance could be expensive. Start with pilot programs and seek partnerships for funding.
+Regulatory issues may arise with the use of surveillance. Collaborate with legal experts to ensure compliance.
+Unauthorized access could lead to misuse of the system. Implement strong cybersecurity measures and limit access to data. 
+SLIDE 6
+IMPACT AND BENEFITS
+
+
+@SIH Idea submission- Template
+6
+Her   techarmor
+RESEARCH AND REFERENCES
+https://www.researchgate.net/publication/349551329_Gender_Classification_using_OpenCV_and_Feature_Extraction
+https://scholarworks.sjsu.edu/do/search/?q=author%3A%22ChengEn%20Sung%22&start=0&context=1551039
+https://ojs.piscomed.com/index.php/L-E/issue/view/220
+https://peerj.com/articles/10990/
+https://journal.esrgroups.org/jes/article/view/1430
+
+Enhanced Public Safety: Proactively monitors and responds to potential threats, preventing harassment or violence.
+Increased Trust: Boosts public confidence in infrastructure and law enforcement by implementing advanced safety features.
+Faster Emergency Response: Real-time CCTV and automated alerts reduce response times, potentially saving lives.
+Crime Deterrence: Sophisticated surveillance acts as a deterrent to potential offenders.
+Data-Driven Policy Making: Collects valuable data for informed decision-making in urban planning and resource allocation.
+Scalability and Integration: Easily scalable and integrates with existing infrastructure, offering a versatile solution for various environments.
+Community Empowerment: Enhances women's safety, empowering communities and promoting gender equality. 
+
+SOURCE: WOMEN SAFETY PREDICTION.pptx
+SLIDE 1
+AI FOR WOMEN'S SAFETY: REAL-TIME THREAT DETECTION AND PREVENTION
+SLIDE 2
+The Global Importance of Women's Safety:
+
+Women's safety is a critical global issue, with millions facing threats of violence, harassment, and assault in both public and private spaces. Despite advancements in traditional surveillance systems like CCTV and security patrols, these measures remain largely reactive, often failing to prevent crimes or intervene in real time. The increasing scale of the problem, with 1 in 3 women globally experiencing physical violence, underscores the need for more intelligent safety solutions. Traditional methods struggle with limited coverage and slow response times, highlighting the necessity for proactive technologies that can predict, prevent, and respond to threats before they escalate.
+The Alarming Scale of the Problem:
+
+Globally, 1 in 3 women experience physical violence in their lifetime.
+In 2023, reports showed that 35% of women worldwide had been subjected to 
+harassment or assault in public spaces.
+Workplace harassment affects 60% of women in certain regions, contributing 
+to unsafe work environments.
+These statistics highlight the urgency of addressing women’s safety with more robust measures.
+INTRODUCTION
+SLIDE 3
+AI Capabilities:
+
+Pattern Recognition: AI can learn from past events to identify suspicious behavior patterns, such as stalking or loitering, and flag potential threats early.
+Predictive Analytics: Using historical data, AI can forecast areas and times where incidents are more likely to occur, allowing for more focused interventions.
+Computer Vision: AI-powered cameras can detect unusual activities, alert authorities in real time, and even recognize faces or objects involved in crimes, enhancing security precision.
+
+AI offers a powerful solution to women's safety concerns by enabling real-time data processing, detecting anomalies, and providing scalable coverage across large areas. Unlike traditional surveillance systems, which are reactive and rely on human intervention, AI continuously monitors environments and identifies risks early, allowing for faster and more proactive responses. Its ability to analyze vast amounts of data without fatigue ensures more comprehensive and efficient safety measures.
+SLIDE 4
+The software integrates with existing surveillance systems to automatically detect potential threats and alert nearby security centers in real-time.(By using a Artificial Intelligence and Deep learning).
+High-risk incidents are recorded and stored as non-deletable evidence to ensure the footage is preserved for future legal or investigative purposes.
+The software continuously monitors and detects the gender of individuals in the surveillance area, providing a real-time count of men and women present.(also detect dangerous objects).
+It can identify suspicious gestures or SOS signals, triggering an immediate alert to local police stations or nearby security centers to initiate a response.
+ The system is designed to detect potentially dangerous scenarios, such as a lone woman in the area or a woman surrounded by men, enabling precautionary actions to ensure her safety.
+Equipped with an audio detection system, the software can recognize screams and cross-reference them with ongoing gestures in the scene, to accurately assess and respond to threatening situations.
+ By training the model with a vast dataset of screams, the software can detect emotions like fear or distress based on sound frequencies. This audio-based emotion detection enhances threat assessment by cross-referencing with gestures for more accurate alerts.
+The software operates on a graded threat level system:
+             1. Low: Minimal concern, no action required.
+            2.Moderate: Situations are temporarily stored for review
+            3.High: Serious danger, and footage is saved permanently as secure evidence for later use.
+WORKING OF SURVILLANCE SYSTEM USING AI
+SLIDE 5
+FLOWCHART
+SLIDE 6
+Python is utilized to build the model, providing flexibility and ease of integration. 
+Artificial Intelligence is employed for gender classification and gesture detection to ensure real-time monitoring. 
+Deep Learning powers the scream alert mechanism, enhancing the system’s ability to detect distress based on audio analysis.
+The model can be trained using tools like OpenCV, Torchvision, and TensorFlow for advanced visual and audio recognition capabilities. 
+Using a CNN-based model for detecting the person’s face and classifying gender. Using a combination of MediaPipe for detecting hand keypoints and an LSTM model for classifying the gesture based on temporal data.
+Data is collected and stored permanently upon detecting threatening activities using cloud platforms.
+
+TECHNICAL DETAILS  OF INTERGRATING AI 
+SLIDE 7
+DejaView Surveillance System in North Korea:  
+AI-powered system monitors public spaces using facial recognition and behavior analysis.  
+Employs gender classification to track demographics and detect potential threats.  
+Plays a key role in enforcing security protocols under strict regulations.  
+
+Gender Classification in Retail Analytics:  
+Retail chains use AI to analyze facial features.
+Helps optimize marketing strategies and improve customer engagement.  
+Raises concerns about privacy and data ethics despite its benefits.  
+
+Emotion Detection Through Scream Analysis:  
+AI analyzes frequency ranges to differentiate between normal and distress screams.
+Enhances safety by identifying emergencies in public spaces like transport hubs.
+Demonstrates early threat detection potential, with ethical concerns over voice surveillance.
+CASE STUDIES:
+SLIDE 8
+IMPACTS AND BENEFITS:
+
+Enhanced Public Safety: Proactively monitors and responds to potential threats, preventing harassment or violence.
+Increased Trust: Boosts public confidence in infrastructure and law enforcement by implementing advanced safety features.
+Faster Emergency Response: Real-time CCTV and automated alerts reduce response times, potentially saving lives.
+Crime Deterrence: Sophisticated surveillance acts as a deterrent to potential offenders.
+Data-Driven Policy Making: Collects valuable data for informed decision-making in urban planning and resource allocation.
+Scalability and Integration: Easily scalable and integrates with existing infrastructure, offering a versatile solution for various environments.
+
+COMPARATIVE ADVANTAGE OF AI OVER TRADITIONAL MEASURES
+
+Unlike conventional surveillance systems that rely on human intervention and post-incident analysis, AI systems continuously analyze data without fatigue, offering real-time detection and faster responses. AI also scales efficiently, handling large data volumes across vast areas, ensuring more comprehensive coverage. Its predictive capabilities further enable proactive prevention, giving AI a clear advantage over traditional methods, which often fall short in preventing crime before it occurs.
+SLIDE 9
+THANK YOU!!
